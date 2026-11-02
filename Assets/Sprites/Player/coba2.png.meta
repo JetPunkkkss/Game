@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8abd026a80232de4092797d48e18cf2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2777234622505388681
+    second: coba2_0
+  - first:
+      213: -4517210180595228964
+    second: coba2_1
+  - first:
+      213: -6963553409441863461
+    second: coba2_2
+  - first:
+      213: -5067235912316067635
+    second: coba2_3
+  - first:
+      213: 2378409803000411869
+    second: coba2_4
+  - first:
+      213: 8027943147578462413
+    second: coba2_5
+  - first:
+      213: -5955214633219226977
+    second: coba2_6
+  - first:
+      213: -6276530934844172636
+    second: coba2_7
+  - first:
+      213: -2493752430848820739
+    second: coba2_8
+  - first:
+      213: 3314432323953844479
+    second: coba2_9
+  - first:
+      213: 8679093313354516003
+    second: coba2_10
+  - first:
+      213: 6974575381856615997
+    second: coba2_11
+  - first:
+      213: 611647559588201488
+    second: coba2_12
+  - first:
+      213: -1673277061998589007
+    second: coba2_13
+  - first:
+      213: -7647286481727143547
+    second: coba2_14
+  - first:
+      213: 656709078431974486
+    second: coba2_15
+  - first:
+      213: 4447951953251143220
+    second: coba2_16
+  - first:
+      213: -4438194973076947920
+    second: coba2_17
+  - first:
+      213: 5722996180753342140
+    second: coba2_18
+  - first:
+      213: 8541556262752319293
+    second: coba2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coba2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77576a343d74579d0800000000000000
+      internalID: -2777234622505388681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded7d12645af41c0800000000000000
+      internalID: -4517210180595228964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e1cf811d7c5f90800000000000000
+      internalID: -6963553409441863461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc06c4df8cf8da9b0800000000000000
+      internalID: -5067235912316067635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6752e4d1fc10120800000000000000
+      internalID: 2378409803000411869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0127442cbf86f60800000000000000
+      internalID: 8027943147578462413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9282c9d7d3da5da0800000000000000
+      internalID: -5955214633219226977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6dcd68e5845e8a0800000000000000
+      internalID: -6276530934844172636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93d796069646dd0800000000000000
+      internalID: -2493752430848820739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0675553aa3ffd20800000000000000
+      internalID: 3314432323953844479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c6fa7265527870800000000000000
+      internalID: 8679093313354516003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_11
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7fbe5b5baac060800000000000000
+      internalID: 6974575381856615997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144dfcf6320d7800800000000000000
+      internalID: 611647559588201488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_13
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1072
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc3c4a06357c8e0800000000000000
+      internalID: -1673277061998589007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c10146716fd590800000000000000
+      internalID: -7647286481727143547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65446bc6d691d1900800000000000000
+      internalID: 656709078431974486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0a873cbc4abd30800000000000000
+      internalID: 4447951953251143220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf2d1cf2d5862c0800000000000000
+      internalID: -4438194973076947920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_18
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe58b464ba2c6f40800000000000000
+      internalID: 5722996180753342140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coba2_19
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 72
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377d567a24b98670800000000000000
+      internalID: 8541556262752319293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6e2bed3f7c3e2448928833ed2d90bd2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coba2_0: -2777234622505388681
+      coba2_1: -4517210180595228964
+      coba2_10: 8679093313354516003
+      coba2_11: 6974575381856615997
+      coba2_12: 611647559588201488
+      coba2_13: -1673277061998589007
+      coba2_14: -7647286481727143547
+      coba2_15: 656709078431974486
+      coba2_16: 4447951953251143220
+      coba2_17: -4438194973076947920
+      coba2_18: 5722996180753342140
+      coba2_19: 8541556262752319293
+      coba2_2: -6963553409441863461
+      coba2_3: -5067235912316067635
+      coba2_4: 2378409803000411869
+      coba2_5: 8027943147578462413
+      coba2_6: -5955214633219226977
+      coba2_7: -6276530934844172636
+      coba2_8: -2493752430848820739
+      coba2_9: 3314432323953844479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
