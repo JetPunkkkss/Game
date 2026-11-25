@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: 50f4cbb105dd72b4199c5fadafe4fef9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1696842554846724869
+    second: lumut + buildin 1_0
+  - first:
+      213: 6874191788331064090
+    second: lumut + buildin 1_1
+  - first:
+      213: -8173019006072495459
+    second: lumut + buildin 1_2
+  - first:
+      213: -5207762592002589372
+    second: lumut + buildin 1_3
+  - first:
+      213: -6178020204809000069
+    second: lumut + buildin 1_4
+  - first:
+      213: 3754343232742658233
+    second: lumut + buildin 1_5
+  - first:
+      213: 3361419833194565802
+    second: lumut + buildin 1_6
+  - first:
+      213: -4958123112747756627
+    second: lumut + buildin 1_7
+  - first:
+      213: 2303469854379673194
+    second: lumut + buildin 1_8
+  - first:
+      213: 8234008488157440748
+    second: lumut + buildin 1_9
+  - first:
+      213: 2464491011537884085
+    second: lumut + buildin 1_10
+  - first:
+      213: 3427063411178450869
+    second: lumut + buildin 1_11
+  - first:
+      213: 5147476496990170710
+    second: lumut + buildin 1_12
+  - first:
+      213: 6999154121853071219
+    second: lumut + buildin 1_13
+  - first:
+      213: -481668250186454955
+    second: lumut + buildin 1_14
+  - first:
+      213: 6066130862309818706
+    second: lumut + buildin 1_15
+  - first:
+      213: 2688874859251970335
+    second: lumut + buildin 1_16
+  - first:
+      213: 3805697425897148532
+    second: lumut + buildin 1_17
+  - first:
+      213: 6893127780398050594
+    second: lumut + buildin 1_18
+  - first:
+      213: -9090773222656733948
+    second: lumut + buildin 1_19
+  - first:
+      213: 1581225330904237396
+    second: lumut + buildin 1_20
+  - first:
+      213: -1017731270572269582
+    second: lumut + buildin 1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lumut + buildin 1_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2597
+        width: 1083
+        height: 1383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c76930556c8710800000000000000
+      internalID: 1696842554846724869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 3331
+        width: 980
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926888348a939e80800000000000000
+      internalID: -8173019006072495459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_3
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2357
+        width: 492
+        height: 1324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3e15b38f4ab7b0800000000000000
+      internalID: -5207762592002589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_4
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 3422
+        width: 258
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b6c253b53434aa0800000000000000
+      internalID: -6178020204809000069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_5
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 3280
+        width: 388
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09480674b1a1430800000000000000
+      internalID: 3754343232742658233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_6
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2338
+        width: 571
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d38a578926ae20800000000000000
+      internalID: 3361419833194565802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_7
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 2550
+        width: 277
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da314085c45313bb0800000000000000
+      internalID: -4958123112747756627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_8
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 3273
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660f15d0a197ff10800000000000000
+      internalID: 2303469854379673194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2443
+        width: 543
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaec262813154270800000000000000
+      internalID: 8234008488157440748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_10
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2244
+        width: 279
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3dbde7481a33220800000000000000
+      internalID: 2464491011537884085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_11
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 2253
+        width: 388
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa70ed3006f8f20800000000000000
+      internalID: 3427063411178450869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 901
+        width: 1335
+        height: 1394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5586d084745c059f0800000000000000
+      internalID: -481668250186454955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_15
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1232
+        width: 869
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c20921e93f2450800000000000000
+      internalID: 6066130862309818706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 187
+        width: 772
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11313f207dc05520800000000000000
+      internalID: 2688874859251970335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_17
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 524
+        width: 540
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470d73935ad80d430800000000000000
+      internalID: 3805697425897148532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_18
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 620
+        width: 297
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da006e13f49af50800000000000000
+      internalID: 6893127780398050594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_19
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 364
+        width: 1180
+        height: 1486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d89e14be517d180800000000000000
+      internalID: -9090773222656733948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lumut + buildin 1_20
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 110
+        width: 423
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455856e8f04a1f510800000000000000
+      internalID: 1581225330904237396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72bfafb1cb1aea6419814e16a8b85dea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lumut + buildin 1_0: 1696842554846724869
+      lumut + buildin 1_1: 6874191788331064090
+      lumut + buildin 1_10: 2464491011537884085
+      lumut + buildin 1_11: 3427063411178450869
+      lumut + buildin 1_12: 5147476496990170710
+      lumut + buildin 1_13: 6999154121853071219
+      lumut + buildin 1_14: -481668250186454955
+      lumut + buildin 1_15: 6066130862309818706
+      lumut + buildin 1_16: 2688874859251970335
+      lumut + buildin 1_17: 3805697425897148532
+      lumut + buildin 1_18: 6893127780398050594
+      lumut + buildin 1_19: -9090773222656733948
+      lumut + buildin 1_2: -8173019006072495459
+      lumut + buildin 1_20: 1581225330904237396
+      lumut + buildin 1_21: -1017731270572269582
+      lumut + buildin 1_3: -5207762592002589372
+      lumut + buildin 1_4: -6178020204809000069
+      lumut + buildin 1_5: 3754343232742658233
+      lumut + buildin 1_6: 3361419833194565802
+      lumut + buildin 1_7: -4958123112747756627
+      lumut + buildin 1_8: 2303469854379673194
+      lumut + buildin 1_9: 8234008488157440748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

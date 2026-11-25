@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: dad7e0dcaeecdd94bb2b0b27fc2460d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -891161730930473089
+    second: rumput og_0
+  - first:
+      213: 5426556919641605171
+    second: rumput og_1
+  - first:
+      213: -5560636541901570357
+    second: rumput og_2
+  - first:
+      213: -604526054042734691
+    second: rumput og_3
+  - first:
+      213: -6533050074369505451
+    second: rumput og_4
+  - first:
+      213: 973990780197202853
+    second: rumput og_5
+  - first:
+      213: -7025208869998757497
+    second: rumput og_6
+  - first:
+      213: 8357428716656420305
+    second: rumput og_7
+  - first:
+      213: -8588170893168674285
+    second: rumput og_8
+  - first:
+      213: -3957071988182945187
+    second: rumput og_9
+  - first:
+      213: -2995819707902640336
+    second: rumput og_10
+  - first:
+      213: 7141131950576409742
+    second: rumput og_11
+  - first:
+      213: -1909052533238152241
+    second: rumput og_12
+  - first:
+      213: 4526115492289333275
+    second: rumput og_13
+  - first:
+      213: -6578440448307545686
+    second: rumput og_14
+  - first:
+      213: 2210446396931494433
+    second: rumput og_15
+  - first:
+      213: -8476125802858034537
+    second: rumput og_16
+  - first:
+      213: 2704734312338657100
+    second: rumput og_17
+  - first:
+      213: 40653926222459724
+    second: rumput og_18
+  - first:
+      213: -4562082923947397960
+    second: rumput og_19
+  - first:
+      213: 565051294762891416
+    second: rumput og_20
+  - first:
+      213: -3906226047247108266
+    second: rumput og_21
+  - first:
+      213: 440832647893289981
+    second: rumput og_22
+  - first:
+      213: -3437726204560398091
+    second: rumput og_23
+  - first:
+      213: 6466373501446658746
+    second: rumput og_24
+  - first:
+      213: -3454924606956912866
+    second: rumput og_25
+  - first:
+      213: -8979608045700929381
+    second: rumput og_26
+  - first:
+      213: 1929158436491379992
+    second: rumput og_27
+  - first:
+      213: -384399161090519830
+    second: rumput og_28
+  - first:
+      213: -5410447835289585740
+    second: rumput og_29
+  - first:
+      213: -226214621483226911
+    second: rumput og_30
+  - first:
+      213: -1254925578643402648
+    second: rumput og_31
+  - first:
+      213: 7412337423189389717
+    second: rumput og_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rumput og_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2738
+        width: 1253
+        height: 940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7787769025f1a3f0800000000000000
+      internalID: -891161730930473089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_1
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2691
+        width: 1289
+        height: 1099
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3340dac64c00f4b40800000000000000
+      internalID: 5426556919641605171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_2
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2879
+        width: 1097
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce76e2d686a4d2b0800000000000000
+      internalID: -5560636541901570357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_7
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1981
+        width: 1099
+        height: 761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d564f3632d8bf370800000000000000
+      internalID: 8357428716656420305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1867
+        width: 1212
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c7cae5dea185e0800000000000000
+      internalID: -1909052533238152241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1895
+        width: 1231
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79acf11ad70ce5a80800000000000000
+      internalID: -8476125802858034537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_20
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 2331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8987738a82777d700800000000000000
+      internalID: 565051294762891416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 748
+        width: 865
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f820261b3eba40d0800000000000000
+      internalID: -3437726204560398091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_24
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 922
+        width: 1085
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba1ab2707c2db950800000000000000
+      internalID: 6466373501446658746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_25
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 909
+        width: 1216
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb39cff54ad00d0800000000000000
+      internalID: -3454924606956912866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 829
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a1c5fe06026380800000000000000
+      internalID: -8979608045700929381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_28
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 128
+        width: 361
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeccd37eff65aaaf0800000000000000
+      internalID: -384399161090519830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_29
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 161
+        width: 231
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b778cd0c5a3ae4b0800000000000000
+      internalID: -5410447835289585740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_30
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 141
+        width: 279
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e82e7310035cdcf0800000000000000
+      internalID: -226214621483226911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_31
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 168
+        width: 175
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609869c5db959ee0800000000000000
+      internalID: -1254925578643402648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumput og_32
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 140
+        width: 97
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591b9883d99edd660800000000000000
+      internalID: 7412337423189389717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bc4747ce5b63b6468677e71fd39eb49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rumput og_0: -891161730930473089
+      rumput og_1: 5426556919641605171
+      rumput og_10: -2995819707902640336
+      rumput og_11: 7141131950576409742
+      rumput og_12: -1909052533238152241
+      rumput og_13: 4526115492289333275
+      rumput og_14: -6578440448307545686
+      rumput og_15: 2210446396931494433
+      rumput og_16: -8476125802858034537
+      rumput og_17: 2704734312338657100
+      rumput og_18: 40653926222459724
+      rumput og_19: -4562082923947397960
+      rumput og_2: -5560636541901570357
+      rumput og_20: 565051294762891416
+      rumput og_21: -3906226047247108266
+      rumput og_22: 440832647893289981
+      rumput og_23: -3437726204560398091
+      rumput og_24: 6466373501446658746
+      rumput og_25: -3454924606956912866
+      rumput og_26: -8979608045700929381
+      rumput og_27: 1929158436491379992
+      rumput og_28: -384399161090519830
+      rumput og_29: -5410447835289585740
+      rumput og_3: -604526054042734691
+      rumput og_30: -226214621483226911
+      rumput og_31: -1254925578643402648
+      rumput og_32: 7412337423189389717
+      rumput og_4: -6533050074369505451
+      rumput og_5: 973990780197202853
+      rumput og_6: -7025208869998757497
+      rumput og_7: 8357428716656420305
+      rumput og_8: -8588170893168674285
+      rumput og_9: -3957071988182945187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
