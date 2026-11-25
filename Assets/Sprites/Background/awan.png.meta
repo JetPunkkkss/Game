@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: af538820e46e96c4e9ecbc0b237abbae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3164671270955646770
+    second: awan_0
+  - first:
+      213: -586099003647309044
+    second: awan_1
+  - first:
+      213: -4650302478570182324
+    second: awan_2
+  - first:
+      213: 152931847120586875
+    second: awan_3
+  - first:
+      213: 1863319017200329983
+    second: awan_4
+  - first:
+      213: 4603735459373221479
+    second: awan_5
+  - first:
+      213: 6207893800503500925
+    second: awan_6
+  - first:
+      213: -7587129373943623812
+    second: awan_7
+  - first:
+      213: -6792912818962282521
+    second: awan_8
+  - first:
+      213: 2853887033937437753
+    second: awan_9
+  - first:
+      213: 3223812871020415353
+    second: awan_10
+  - first:
+      213: 5889018590705261677
+    second: awan_11
+  - first:
+      213: -6716721202075364016
+    second: awan_12
+  - first:
+      213: -8414852101431150803
+    second: awan_13
+  - first:
+      213: 4047692909885338481
+    second: awan_14
+  - first:
+      213: 8216442994645215194
+    second: awan_15
+  - first:
+      213: -297361131959582278
+    second: awan_16
+  - first:
+      213: -133435928349084242
+    second: awan_17
+  - first:
+      213: 7257497990016554506
+    second: awan_18
+  - first:
+      213: 2476523702164146094
+    second: awan_19
+  - first:
+      213: 7433466369576368935
+    second: awan_20
+  - first:
+      213: -5308687042417885487
+    second: awan_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: awan_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2067
+        width: 4027
+        height: 1883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a4bab88ec67fb0800000000000000
+      internalID: -4650302478570182324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awan_4
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1930
+        width: 855
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a47b16c6dbd910800000000000000
+      internalID: 1863319017200329983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awan_5
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 888
+        width: 1334
+        height: 1642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668fc73201c3ef30800000000000000
+      internalID: 4603735459373221479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awan_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1255
+        width: 2612
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74e8318c9bab1a0800000000000000
+      internalID: -6792912818962282521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awan_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 1310
+        height: 1303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342fe6032b0b9720800000000000000
+      internalID: 2853887033937437753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awan_15
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 74
+        width: 2221
+        height: 1182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7231dfe5ba60270800000000000000
+      internalID: 8216442994645215194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a31230457b4bcc47acb896224158c6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      awan_0: 3164671270955646770
+      awan_1: -586099003647309044
+      awan_10: 3223812871020415353
+      awan_11: 5889018590705261677
+      awan_12: -6716721202075364016
+      awan_13: -8414852101431150803
+      awan_14: 4047692909885338481
+      awan_15: 8216442994645215194
+      awan_16: -297361131959582278
+      awan_17: -133435928349084242
+      awan_18: 7257497990016554506
+      awan_19: 2476523702164146094
+      awan_2: -4650302478570182324
+      awan_20: 7433466369576368935
+      awan_21: -5308687042417885487
+      awan_3: 152931847120586875
+      awan_4: 1863319017200329983
+      awan_5: 4603735459373221479
+      awan_6: 6207893800503500925
+      awan_7: -7587129373943623812
+      awan_8: -6792912818962282521
+      awan_9: 2853887033937437753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
